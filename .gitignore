@@ -1,0 +1,25 @@
+# Supabase internal files
+supabase/.temp/
+supabase/.branches/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Node & Deno
+node_modules/
+npm-debug.log*
+deno.lock
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE configs
+.vscode/
+.idea/
+
+# Backup or compiled files
+dist/
+build/
