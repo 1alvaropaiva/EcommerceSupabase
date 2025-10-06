@@ -1,6 +1,6 @@
 
 insert into clientes (nome, email, endereco) values
-  ('Alvaro', '12alvaropaiva@gmail.com', 'Rua B, 13'),
+  ('Alvaro', 'alvaro@email.com', 'Rua B, 13'),
   ('Mariazinha', 'mariazinha@email.com', 'Rua A, 12'),
   ('João Pedro', 'joaopedro@email.com', 'Av. Central, 45'),
   ('Ana Clara', 'ana.clara@email.com', 'Rua das Flores, 88'),
